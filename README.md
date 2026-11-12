@@ -8,9 +8,9 @@ I build **free, open-source, privacy-first tools**: no accounts, no ads, no trac
 
 | Project | What it does | Platform |
 |---|---|---|
-| **[Kilit](https://github.com/smyrna-pergamum/kilit-messenger)** | Post-quantum, serverless messenger and encrypted vault over Tor. No phone number, no account. *(alpha)* | Android · Windows |
+| **[Kilit](https://github.com/smyrna-pergamum/kilit-messenger)** | Post-quantum, serverless messenger and encrypted vault over Tor. No phone number, no account. *(alpha)* [Website](https://smyrna-pergamum.github.io/kilit-messenger/) | Android · Windows |
 | **[Lanora](https://github.com/smyrna-pergamum/Lanora)** | Network scanner: find devices on your LAN, scan ports, understand risks in plain language. | Windows |
-| **[OSINT-Book](https://github.com/smyrna-pergamum/osint-book)** | Passive OSINT notebook: 22 public sources, evidence-linked findings, PDF reports, optional local AI. | Android · Windows |
+| **[OSINT-Book](https://github.com/smyrna-pergamum/osint-book)** | Passive OSINT notebook: 22 public sources, evidence-linked findings, PDF reports, optional local AI. [Website](https://smyrna-pergamum.github.io/osint-book/) | Android · Windows |
 | **[Smyrna Cyber Academy](https://smyrna-pergamum.github.io/smyrna-cyber-awareness-academy/)** | Cybersecurity awareness training: 28 lessons, quizzes and certificates in 7 languages. | Browser |
 
 ## 📄 Documents
@@ -24,15 +24,21 @@ I build **free, open-source, privacy-first tools**: no accounts, no ads, no trac
 
 | Project | What it does |
 |---|---|
-| **[Claude Code Fallback](https://github.com/smyrna-pergamum/Claude-Code-Fallback)** | Keep Claude Code working when you hit your limit: falls back to free APIs or local models (Ollama, LM Studio, llama.cpp). |
-| **[Web Design Skills](https://smyrna-pergamum.github.io/web-design-skills/)** | A library of web design skills for Claude, each with a live reference site and copy-ready components. |
+| **[Claude Code Fallback](https://github.com/smyrna-pergamum/Claude-Code-Fallback)** | Keep Claude Code working when you hit your limit: falls back to free APIs or local models (Ollama, LM Studio, llama.cpp). Includes CC Desk, a desktop app for keys and models. |
+| **[Web Design Skills](https://smyrna-pergamum.github.io/web-design-skills/)** | A library of web design skills for AI coding agents (Claude Code, Codex, Cursor, Copilot and more), each with a live reference site and copy-ready components. |
 
 ## 🌱 Everyday apps
 
 | Project | What it does | Platform |
 |---|---|---|
-| **[FitVita](https://github.com/smyrna-pergamum/fitvita)** | Gamified fitness app: steps, workouts, yoga, water, GPS routes. No ads, no account. | Android |
-| **[Wortschatz Karten](https://github.com/smyrna-pergamum/wortschatz-karten)** | Flashcards with spaced repetition for German DSH vocabulary. | Windows |
+| **[FitVita](https://github.com/smyrna-pergamum/fitvita)** | Gamified fitness app: steps, workouts, yoga, water, GPS routes. No ads, no account. [Website](https://smyrna-pergamum.github.io/fitvita/) | Android |
+| **[Wortschatz Karten](https://github.com/smyrna-pergamum/wortschatz-karten)** | Flashcards with spaced repetition for German DSH vocabulary. [Website](https://smyrna-pergamum.github.io/wortschatz-karten/) | Windows |
+
+## 🎮 Games
+
+| Project | What it does | Platform |
+|---|---|---|
+| **[SkyRoam](https://github.com/smyrna-pergamum/skyroam)** | Flight game over the real map of the whole planet: 100 real aircraft from the 1903 Wright Flyer to the A380, take off from any town, cockpit instruments and warnings, two-thumb touch controls. Free, no install, no account. [Website](https://smyrna-pergamum.github.io/skyroam/) · [Play](https://smyrna-pergamum.github.io/skyroam/play.html) | Browser |
 
 ---
 
