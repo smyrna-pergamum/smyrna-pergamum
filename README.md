@@ -9,7 +9,7 @@ I build **free, open-source, privacy-first tools**: no accounts, no ads, no trac
 | Project | What it does | Platform |
 |---|---|---|
 | **[Kilit](https://github.com/smyrna-pergamum/kilit-messenger)** | Post-quantum, serverless messenger and encrypted vault over Tor. No phone number, no account. *(alpha)* [Website](https://smyrna-pergamum.github.io/kilit-messenger/) | Android · Windows |
-| **[Lanora](https://github.com/smyrna-pergamum/Lanora)** | Network scanner: find devices on your LAN, scan ports, understand risks in plain language. | Windows |
+| **[Lanora](https://github.com/smyrna-pergamum/Lanora)** | Network scanner: find devices on your LAN, scan ports, understand risks in plain language. [Website](https://smyrna-pergamum.github.io/lanora-website/) | Windows |
 | **[OSINT-Book](https://github.com/smyrna-pergamum/osint-book)** | Passive OSINT notebook: 22 public sources, evidence-linked findings, PDF reports, optional local AI. [Website](https://smyrna-pergamum.github.io/osint-book/) | Android · Windows |
 | **[Smyrna Cyber Academy](https://smyrna-pergamum.github.io/smyrna-cyber-awareness-academy/)** | Cybersecurity awareness training: 28 lessons, quizzes and certificates in 7 languages. | Browser |
 
