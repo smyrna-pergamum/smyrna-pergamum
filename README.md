@@ -20,6 +20,12 @@ I build **free, open-source, privacy-first tools**: no accounts, no ads, no trac
 | **[PDF Werkstatt](https://smyrna-pergamum.github.io/PDF-Werkstatt/)** | Offline PDF editor with OCR, text editing, conversion and encryption, all in your browser. | Browser |
 | **[ScanLens](https://github.com/smyrna-pergamum/scanlens)** | Document scanner and PDF reader with **no internet permission** at all. | Android |
 
+## 🏢 Office & productivity
+
+| Project | What it does | Platform |
+|---|---|---|
+| **[Office Werkstatt](https://github.com/smyrna-pergamum/office-werkstatt)** | Integrated offline office suite: Word, Excel, Slide, Note, Draw, PDF, Design and Forms in one window. No internet needed. [Download](https://github.com/smyrna-pergamum/office-werkstatt/releases/latest) | Browser · Windows · Linux · macOS · Server |
+
 ## 🤖 Claude & AI
 
 | Project | What it does |
@@ -38,7 +44,7 @@ I build **free, open-source, privacy-first tools**: no accounts, no ads, no trac
 
 | Project | What it does | Platform |
 |---|---|---|
-| **[SkyRoam](https://github.com/smyrna-pergamum/skyroam)** | Flight game over the real map of the whole planet: 100 real aircraft from the 1903 Wright Flyer to the A380, take off from any town, cockpit instruments and warnings, two-thumb touch controls. Free, no install, no account. [Website](https://smyrna-pergamum.github.io/skyroam/) · [Play](https://smyrna-pergamum.github.io/skyroam/play.html) | Browser |
+| **[SkyRoam](https://github.com/smyrna-pergamum/skyroam)** | Flight game over the real map of the whole planet: 108 real aircraft from the 1903 Wright Flyer to the A380, take off from any town, cockpit instruments and warnings, two-thumb touch controls. Free, no install, no account. [Website](https://smyrna-pergamum.github.io/skyroam/) · [Play](https://smyrna-pergamum.github.io/skyroam/play.html) | Browser |
 
 ---
 
