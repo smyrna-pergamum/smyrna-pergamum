@@ -10,8 +10,11 @@ I build **free, open-source, privacy-first tools**: no accounts, no ads, no trac
 |---|---|---|
 | **[Kilit](https://github.com/smyrna-pergamum/kilit-messenger)** | Post-quantum, serverless messenger and encrypted vault over Tor. No phone number, no account. *(alpha)* [Website](https://smyrna-pergamum.github.io/kilit-messenger/) | Android · Windows |
 | **[Lanora](https://github.com/smyrna-pergamum/Lanora)** | Network scanner: find devices on your LAN, scan ports, understand risks in plain language. | Windows |
+| **[MailSonar](https://github.com/smyrna-pergamum/mailsonar)** | Local-first e-mail forensics and incident-response workbench: phishing, BEC, account takeover and exfiltration, with optional evidence-cited AI analysis on local models. [Download](https://github.com/smyrna-pergamum/mailsonar/releases/latest) | Windows · Linux · macOS |
+| **[DarkWatch AI](https://github.com/smyrna-pergamum/darkwatch-ai)** | Self-hosted darknet monitoring and threat intelligence: alerts when your domains, brands or e-mail addresses surface on Tor sites, leak and ransomware sites. Defensive use only. *(developer preview)* | Self-hosted |
 | **[OSINT-Book](https://github.com/smyrna-pergamum/osint-book)** | Passive OSINT notebook: 22 public sources, evidence-linked findings, PDF reports, optional local AI. [Website](https://smyrna-pergamum.github.io/osint-book/) | Android · Windows |
 | **[Smyrna Cyber Academy](https://smyrna-pergamum.github.io/smyrna-cyber-awareness-academy/)** | Cybersecurity awareness training: 28 lessons, quizzes and certificates in 7 languages. | Browser |
+| **[NovaShop Security Lab](https://github.com/smyrna-pergamum/NovaShop-Security-Lab)** | Hands-on web security lab: a deliberately vulnerable shop with a 5-step exploit scenario (SQL injection, XSS, access control) and the fix for each step. Run it locally only. | Local (Node.js) |
 
 ## 📄 Documents
 
@@ -24,7 +27,7 @@ I build **free, open-source, privacy-first tools**: no accounts, no ads, no trac
 
 | Project | What it does | Platform |
 |---|---|---|
-| **[Office Werkstatt](https://github.com/smyrna-pergamum/office-werkstatt)** | Integrated offline office suite: Word, Excel, Slide, Note, Draw, PDF, Design and Forms in one window. No internet needed. [Download](https://github.com/smyrna-pergamum/office-werkstatt/releases/latest) | Browser · Windows · Linux · macOS · Server |
+| **[Office Werkstatt](https://github.com/smyrna-pergamum/office-werkstatt)** | Integrated offline office suite: Word, Excel, Slide, Note, Draw, PDF, Design and Form in one window, with a built-in AI agent. No internet needed. [Website](https://smyrna-pergamum.github.io/office-werkstatt/) · [Download](https://github.com/smyrna-pergamum/office-werkstatt/releases/latest) | Browser · Windows · Linux · macOS · Android · Server |
 
 ## 🤖 Claude & AI
 
