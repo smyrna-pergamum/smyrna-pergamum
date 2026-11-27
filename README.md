@@ -16,18 +16,13 @@ I build **free, open-source, privacy-first tools**: no accounts, no ads, no trac
 | **[Smyrna Cyber Academy](https://smyrna-pergamum.github.io/smyrna-cyber-awareness-academy/)** | Cybersecurity awareness training: 28 lessons, quizzes and certificates in 7 languages. | Browser |
 | **[NovaShop Security Lab](https://github.com/smyrna-pergamum/NovaShop-Security-Lab)** | Hands-on web security lab: a deliberately vulnerable shop with a 5-step exploit scenario (SQL injection, XSS, access control) and the fix for each step. Run it locally only. | Local (Node.js) |
 
-## 📄 Documents
-
-| Project | What it does | Platform |
-|---|---|---|
-| **[PDF Werkstatt](https://smyrna-pergamum.github.io/PDF-Werkstatt/)** | Offline PDF editor with OCR, text editing, conversion and encryption, all in your browser. | Browser |
-| **[ScanLens](https://github.com/smyrna-pergamum/scanlens)** | Document scanner and PDF reader with **no internet permission** at all. | Android |
-
-## 🏢 Office & productivity
+## 🏢 Office & documents
 
 | Project | What it does | Platform |
 |---|---|---|
 | **[Office Werkstatt](https://github.com/smyrna-pergamum/office-werkstatt)** | Integrated offline office suite: Word, Excel, Slide, Note, Draw, PDF, Design and Form in one window, with a built-in AI agent. No internet needed. [Website](https://smyrna-pergamum.github.io/office-werkstatt/) · [Download](https://github.com/smyrna-pergamum/office-werkstatt/releases/latest) | Browser · Windows · Linux · macOS · Android · Server |
+| **[PDF Werkstatt](https://smyrna-pergamum.github.io/PDF-Werkstatt/)** | Offline PDF editor with OCR, text editing, conversion and encryption, all in your browser. | Browser |
+| **[ScanLens](https://github.com/smyrna-pergamum/scanlens)** | Document scanner and PDF reader with **no internet permission** at all. | Android |
 
 ## 🤖 Claude & AI
 
